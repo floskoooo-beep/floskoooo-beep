@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a new user of Github if someone have tios for me or anything else
+## Hi there 👋 I'm a new user of Github if someone have tips for me or anything else
 
 <!--
 **floskoooo-beep/floskoooo-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
